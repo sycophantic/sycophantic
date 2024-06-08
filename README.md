@@ -12,7 +12,7 @@ object-fit: cover;
 background-size: cover;
 width: 130vw;
 opacity: 0.5;
-background: url('https://github.com/advnpzn/advnpzn/blob/main/rick.gif?raw=true');
+background: url('https://github.com/sycophantic/sycophantic/blob/main/rick.gif?raw=true');
 "]{}
 
 \mmlToken{ms}[fontfamily="
